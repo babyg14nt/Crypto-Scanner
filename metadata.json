@@ -1,0 +1,6 @@
+{
+  "name": "Breakout Retest Crypto Scanner",
+  "description": "Real-time 5-minute breakout and retest crypto scanner with automated trade quality filters, targets, hard stop-loss, and risk-managed position sizing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
